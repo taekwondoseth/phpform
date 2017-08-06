@@ -1,0 +1,37 @@
+Hello my name is Seth Chouinard. 
+
+That sounds like a start to a business email. Anyway!
+
+In the repository is what I believe to be all the neccessary files needed to get this form working. 
+I am going to be uploading the ORIGINAL php files as I have made changes to them which have most likley messed things up.
+
+The Domain Registar is currently www.domain.com. I also have my email going through their servers.
+However it actually is just a forward to a gmail that I use.
+
+The file hosting is with GoDaddy.com.
+
+What ever information you need in regards to the domain.com or godaddy servers will be attatched to this document.
+If there is something else that I did not include you can email me at seth@portalnetworking.net
+FYI That is the email that I would like to have the form forward to. 
+
+
+I was considering using 123 contact forms in an IFRAME but I could not design it as much as I would have like to fit the theme.
+So I am determined to get this to work even though PHP is German to me.
+
+Bascially it is not that something specific is not working it is more of the fact that I do not know how to get it working.
+
+So:
+
+Email to which the info will go = seth@portalnetworking.net
+Password = Chouinard (this is just my lastname. After I can find this in the code and change it to my real password.)
+POP3 Server = imap.domain.com          Port = 143
+IMAP 
+Incoming mail server = imap.domain.com  Port = 143
+Outgoing mail server = smtp.domain.com  Port = 587
+SSL/TLS = No
+
+If you have any question you should already have my email. haha. 
+
+If you would like to see a live version of this go to www.portalnetworking.net/test/contact-2-recaptcha.html
+
+There is currently no recaptcha. I do not know how difficult it is but if it is easy I can get you the recaptcha secret.
