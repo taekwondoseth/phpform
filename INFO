@@ -21,6 +21,7 @@ So I am determined to get this to work even though PHP is German to me.
 Bascially it is not that something specific is not working it is more of the fact that I do not know how to get it working.
 
 So:
+contact-2-recaptcha.html is that mail html file for the form.
 
 Email to which the info will go = seth@portalnetworking.net
 Password = Chouinard (this is just my lastname. After I can find this in the code and change it to my real password.)
@@ -30,7 +31,7 @@ Incoming mail server = imap.domain.com  Port = 143
 Outgoing mail server = smtp.domain.com  Port = 587
 SSL/TLS = No
 
-If you have any question you should already have my email. haha. 
+If you have any question you should already have my email. haha. If you would like me to upload new code I can do that. 
 
 If you would like to see a live version of this go to www.portalnetworking.net/test/contact-2-recaptcha.html
 
